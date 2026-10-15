@@ -1,3 +1,4 @@
 Hello Git!
 Git is pretty cool.
 I am learning the staging area.
+Greetings from my feature branch.
