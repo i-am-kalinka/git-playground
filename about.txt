@@ -1,1 +1,2 @@
 This project is my Git playground.
+This change was made locally.
